@@ -1,2 +1,3 @@
 # WordDictionary
-知らない単語をどんどん記録していく
+
+UNknown word list
